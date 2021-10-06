@@ -1,0 +1,31 @@
+body {
+  background-color: #E3FDFD;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #CEE5D0;
+  border-radius: 90;
+  width: 5%;
+}
+
+h1 {
+  color: #E0C097;
+}
+
+h3 {
+  color: #FF7878;
+}
+
+.link {
+  color: #364F6B;
+}
+
+#hobbies {
+  color: #C06C84;
+}
+
+#contact {
+  color: #6C5B7B;
+}
