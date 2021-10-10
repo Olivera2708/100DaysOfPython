@@ -3,8 +3,8 @@ import requests
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
-STOCK_API = "Y007ZGHDDYN1HLT7"
-NEWWS_API = "3d8c1492e9514674967785c74c71a8ac"
+STOCK_API = ""
+NEWWS_API = ""
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
