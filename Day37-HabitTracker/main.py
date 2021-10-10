@@ -3,14 +3,14 @@ from datetime import datetime
 
 from requests.api import head
 
-USERNAME = "olivera"
-TOKIN = "askfhoefhald"
+USERNAME = ""
+TOKIN = ""
 
 pixela_endpoint = "https://pixe.la/v1/users"
 
 user_params = {
-    "token": "askfhoefhald",
-    "username": "olivera",
+    "token": TOKIN,
+    "username": USERNAME
     "agreeTermsOfService": "yes",
     "notMinor": "yes"
 }
