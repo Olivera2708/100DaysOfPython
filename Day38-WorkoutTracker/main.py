@@ -1,13 +1,13 @@
 import requests
 from datetime import datetime
 
-API_KEY = "bb93c7e10f9b9d4d35eece441a4606da"
-API_ID = "2eb9de89"
+API_KEY = ""
+API_ID = ""
 
-GENDER = "Female"
-WEIGHT = 65
-HEIGHT = 170
-AGE = 19
+GENDER = ""
+WEIGHT = 
+HEIGHT = 
+AGE = 
 
 endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 api_sheety = "https://api.sheety.co/61fe0298575e162c657cddd733dd40ba/workout/лист1"
