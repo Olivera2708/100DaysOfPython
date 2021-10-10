@@ -3,11 +3,11 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_LAT = 45.2471933 # Your latitude
-MY_LONG = 19.7937028 # Your longitude
+MY_LAT = # Your latitude
+MY_LONG = # Your longitude
 
-MY_EMAIL = "olivera.radovanovic2708@gmail.com"
-MY_PASSWORD = "olivera2002"
+MY_EMAIL = ""
+MY_PASSWORD = ""
 
 #Your position is within +5 or -5 degrees of the ISS position.
 def is_within():
@@ -42,7 +42,7 @@ def send_mail():
         connection.login(MY_EMAIL, MY_PASSWORD)
         connection.sendmail(
             from_addr=MY_EMAIL,
-            to_addrs="olivera.radovanovic2002@gmail.com",
+            to_addrs=MY_EMAIL,
             msg=f"Subject:Look above!\n\nISS Above you!!!"
         )
 
