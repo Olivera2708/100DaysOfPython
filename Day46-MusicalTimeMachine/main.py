@@ -3,8 +3,8 @@ import spotipy
 from spotipy import SpotifyOAuth
 from bs4 import BeautifulSoup
 
-CLIENT_ID = "9ead8db3683947059d36640354d70e96"
-CLIENT_SECRET = "5a1abce5e47b436fa068059ef47bd67b"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 date = input("Enter the year in format YYYY-MM-DD -> ")
 
