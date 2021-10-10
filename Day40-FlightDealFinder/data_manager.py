@@ -1,6 +1,6 @@
 import requests
 
-sheety_api = "https://api.sheety.co/61fe0298575e162c657cddd733dd40ba/flight/prices"
+sheety_api = ""
 
 class DataManager:
     def __init__(self):
