@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import lxml
 import smtplib
 
-MY_EMAIL = "olivera.radovanovic2708@gmail.com"
-MY_PASSWORD = "olivera2002"
+MY_EMAIL = ""
+MY_PASSWORD = ""
 
 URL = "https://www.amazon.com/Harry-Potter-Vault-Complete-Special/dp/1647221080/ref=sr_1_5?crid=26BHARKWIIMWJ&dchild=1&keywords=harry+potter+books+set&qid=1633888488&s=specialty-aps&sprefix=Harry+Potter+%2Cdeals-intl-ship%2C274&sr=1-5"
 User_Agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15"
