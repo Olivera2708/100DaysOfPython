@@ -6,8 +6,8 @@ import time
 CHROME_DRIVER_PATH = "/Users/olivera/Documents/DevelopmentDrivers/chromedriver"
 SIMILAR_ACCOUNT = "thecubicleofficial"
 
-USERNAME = "olivera.radovanovic2708@gmail.com"
-PASSWORD = "olivera02"
+USERNAME = ""
+PASSWORD = ""
 
 URL = "https://www.instagram.com/accounts/login/"
 
